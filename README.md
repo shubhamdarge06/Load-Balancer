@@ -1,7 +1,4 @@
-# Load-Balancer
-Server Rotation and Load Balancing Example !!!!!
-
-Server Rotation and Load Balancing Example !!!!!
+# Server Rotation and Load Balancing Example !!!!!
 
 This project showcase the working of LOAD BALANCER that how it devide the traffic and balance the load.
 in this project have used various AWS services and there components like EC2, VPC, Load balancer, Target Group, Subnets, NAT Gateway, Internet Gateway, Route Tables, etc
