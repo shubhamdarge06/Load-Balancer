@@ -17,9 +17,13 @@ To create a Loab Balancer we have to create some components first like
 - Configure the Instance Security Group's 
 
 
-As shown in the video when multiple requests hit on the application or website then the LOAD BALANCER divided the traffic to the servers.
+As shown in the video when multiple requests hit on the application or website then the LOAD BALANCER divided the traffic to the servers. ( Watch Load-Balancer-Animation)
 
 LOAD BALANCER working 
-how the request shift from one server to another server.
+how the request shift from one server to another server. ( Watch Load-Balancer_Working )
 
 ![Load-Balancer](https://github.com/user-attachments/assets/03972aaf-d831-4753-a054-7999da256cdd)
+
+
+https://github.com/user-attachments/assets/c366128d-7211-40c6-86c4-6a5698ccaa90
+
